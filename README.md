@@ -14,6 +14,10 @@ To work serious with embedded systems, some preparation is necessary, in order t
 
 > **Note to non english speakers:** One of the main requisites that are required in jobs and internships is english. At least you need to speak and write. That's the reason this repository is being written in english, not only to increase reach, but for me either to train english everyday.
 
+## Index
+
+> Under construction!
+
 ## Goals
 
 The main goal here is to study most of the things needed to work with embedded engineering. With a lot of research I've done a collection of subjects that we need to know. Based on what professionals in the field says and what internships and junior jobs asks, we'll study the main topics in order to be prepared.
@@ -190,4 +194,8 @@ Here I will put some content that are useful. Some of the general content may be
 
 ## Hardware Content
 
-> Under construction
+> Under construction!
+
+## References
+
+> Under construction!
