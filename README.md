@@ -10,17 +10,17 @@ I notice the problem when I started to look for internships and Jr. jobs. The co
 
 To work serious with embedded systems, some preparation is necessary, in order to achieve the knowledge needed to work with both universes: **software and hardware**.
 
-> Nota para quem não fala inglês: Um dos principais requisitos exigidos na maioria dos cargos oferecidos na área é um conhecimento em inglês suficientemente bom para falar e escrever, no mínimo. Por este motivo o repositório e tudo que for escrito será em inglês, não só para incentivar a leitura e aumentar o alcance dos temas abordados, mas também para que eu mesmo pratique a escrita dia após dia.
+> **Nota para quem não fala inglês:** Um dos principais requisitos exigidos na maioria dos cargos oferecidos na área é um conhecimento em inglês suficientemente bom para falar e escrever, no mínimo. Por este motivo o repositório e tudo que for escrito será em inglês, não só para incentivar a leitura e aumentar o alcance dos temas abordados, mas também para que eu mesmo pratique a escrita dia após dia.
 
-> Note to non english speakers: One of the main requisites that are required in jobs and internships is english. At least you need to speak and write. That's the reason this repository is being written in english, not only to increase reach, but for me either to train english everyday.
-
-## How will this works
-
-The main goal here is to study most of the things needed to work with embedded engineering. With a lot of research I've done a collection of subjects that we need to know. Based on what professionals in the field says and what internships and junior jobs asks, we'll study the main topics in order to be prepared.
+> **Note to non english speakers:** One of the main requisites that are required in jobs and internships is english. At least you need to speak and write. That's the reason this repository is being written in english, not only to increase reach, but for me either to train english everyday.
 
 ## Goals
 
-We are going to explore two main subjects: **software** and **hardware**. This repository structure will be divided in directories, which every one will have their own *README* with links to access courses, indications of books, articles and examples of the exercises that I'll do and document.
+The main goal here is to study most of the things needed to work with embedded engineering. With a lot of research I've done a collection of subjects that we need to know. Based on what professionals in the field says and what internships and junior jobs asks, we'll study the main topics in order to be prepared.
+
+### How will this works
+
+We are going to explore two main subjects: **software** and **hardware**. This repository structure will be divided in directories, which every one will have their own *README* with links to access **courses, indications of books, articles and examples of the exercises** that I'll do and document.
 
 This repository should be updated a lot, in order to give you the best way to learn all of the subjects that will be learned.
 
@@ -31,7 +31,7 @@ I'll list some fo the topics that we will see and explain in this repository.
 + **Software**
   + Programming languages (basic and advanced subjects)
     + **C/C++**, Python/Micropython, Java, Rust
-  + Object-oriented programming concepts
+  + Object-oriented programming (OOP) concepts
   + Data Structure
   + Algorithms
   + Bare-metal programming
@@ -58,7 +58,7 @@ I'll list some fo the topics that we will see and explain in this repository.
 
 ## Real world examples of internships and jobs offers
 
-Click on the offers to see some examples. I will update this section whenever interesting opportunities arise to show.
+**Click on the offers** to see some examples. I will update this section whenever interesting opportunities arise to show.
 
 <details><summary>Embedded Software Analyst</summary>
 <p>
@@ -84,6 +84,8 @@ Eldorado Institute
 
 + Experience with projects for mobile solutions (especially Android)
 
+---
+
 </p>
 </details>
 
@@ -104,6 +106,8 @@ Eldorado Institute
 + Experience with embedded software development using C language
 + Familiarity with Linux and working with a remote server
 + Andvanced english
+
+---
 
 </p>
 </details>
@@ -138,6 +142,8 @@ CITeB - Team guided by agile principles, where the professional needs to analyze
 + TDD, BDD, Code Review, Pair programming
 + Agile development methodologies
 
+---
+
 </p>
 </details>
 
@@ -159,5 +165,29 @@ Eldorado Institute
 + Desirable knowledge in Android app (Java, Kotlin)
 + Advanced English for daily contact with outside team
 
+---
+
 </p>
 </details>
+
+## General Content
+
+Here I will put some content that are useful. Some of the general content may be not related to embeddes systems, but could be useful to use.
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary
+|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| Writing READMEs | [Link](https://www.udacity.com/course/writing-readmes--ud777) | Free | Course | Beginner | Udacity | Documentation is an important part of the development process. Learn to write READMEs using Markdown so your code can be used by other humans! (Text from course)
+
+## Software Content
+
+### Android Development
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+|:---:|:---:|:------:|:---:|:---:|:---:|:---|
+| Developing Android Apps | [Link](https://www.udacity.com/course/new-android-fundamentals--ud851) | Udacity | Course | Free |  Beginner¹ | This course blends theory and practice to help you build great apps the right way. In this course, you'll work with instructors step-by-step to build a cloud-connected Android app, and learn best practices of mobile development, and Android development in particular. (Text from course)
+
+>[¹] It's a beginner course in Android field, but needs previous knowledge with programming language (Java or C++) and OOP
+
+## Hardware Content
+
+> Under construction
