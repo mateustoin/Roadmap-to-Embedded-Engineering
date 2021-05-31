@@ -188,9 +188,18 @@ Here I will put some content that are useful. Some of the general content may be
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
-| Developing Android Apps | [Link](https://www.udacity.com/course/new-android-fundamentals--ud851) | Udacity | Course | Free |  Beginner¹ | This course blends theory and practice to help you build great apps the right way. In this course, you'll work with instructors step-by-step to build a cloud-connected Android app, and learn best practices of mobile development, and Android development in particular. (Text from course)
+| Developing Android Apps | [Link](https://www.udacity.com/course/new-android-fundamentals--ud851) | Udacity | Course | Free |  Beginner¹ | This course blends theory and practice to help you build great apps the right way. In this course, you'll work with instructors step-by-step to build a cloud-connected Android app, and learn best practices of mobile development, and Android development in particular. (**Text from course**)
 
 >[¹] It's a beginner course in Android field, but needs previous knowledge with programming language (Java or C++) and OOP
+
+### Data Structure
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+| :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| Data Structures from MyCodeSchool | [Link](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) | YouTube | Video Lessons | Free | Intermediate¹ | In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. (**Text from author**) |
+| Principles of Data Structures Using C and C++ | [Link](https://repository.dinus.ac.id/docs/ajar/Principles_of_Data_Structures_Using_C_and_C++.pdf) | Book | Lessons | Free | Intermediate¹ | Programming methodologies deal with different methods of designing programs. This will teach you how to program efficiently (**Text from book**) |
+
+>[¹] C/C++ programming is necessary to implement and practice the data structures that are showed in playlist. If you are just looking for data structure knowledge, you can just watch the teorical videos explaining them.
 
 ## Hardware Content
 
