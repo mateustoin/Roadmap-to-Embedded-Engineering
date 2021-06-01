@@ -174,6 +174,44 @@ Eldorado Institute
 </p>
 </details>
 
+<details><summary>Embedded systems/devices developer</summary>
+<p>
+
+Axpr Valve Science
+
+### Profile
+
++ Act developing embedded hardware projects
++ Integrating sensors/devices with desktop platforms
++ Work and develop IoT systems
++ Create/Develop communication interfaces with desktop or web environments
++ Propose/Discuss solution strategies to industrial problems using embedded systems
++ Developing firmware to embedded systems
++ Communication with software developers team to specify communication interfaces
+
+### Requisites
+
++ Responsable, problem solver and organized
++ Graduation in a course in the area of technology
++ Focuses on having results and desire to learn
++ Knowledge on:
+  + Developing PCB (Printed Circuit Board)
+  + Use of hardware platforms like: Raspberry Pi, Arduino, ESP32, etc
+  + Structural programming language (Preferably C)
+  + OOP programming language (Preferably python/C#)
+  + Industrial communication protocols (I²C, hart, etc)
+
+### Candidate differentials
+
++ Git
++ Linux environment
++ Intermediate english
+
+---
+
+</p>
+</details>
+
 ## General Content
 
 Here I will put some content that are useful. Some of the general content may be not related to embeddes systems, but could be useful to use.
