@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
 
@@ -11,6 +12,14 @@ struct BstNode {
 BstNode* GetNewNode(int data);
 BstNode* Insert(BstNode* root, int data);
 bool Search(BstNode* root, int data);
+void preorder(BstNode* root);
+void inorder(BstNode* root);
+void postorder(BstNode* root);
+int minRecursive(BstNode* root);
+int maxRecursive(BstNode* root);
+int maxIterative(BstNode* root);
+int minIterative(BstNode* root);
+int height(BstNode* root);
 
 BstNode *root = NULL;
 
@@ -23,7 +32,15 @@ int main() {
     root = Insert(root, 9);
     root = Insert(root, 110);
     root = Insert(root, -43);
+    root = Insert(root, 14);
 
+    inorder(root);
+
+    cout << "Max value of tree: " << maxIterative(root) << endl;
+    cout << "Min value of tree: " << minIterative(root) << endl;
+    cout << "Height of tree: " << height(root) << endl;
+
+    /*
     int searchNumber = 0;
     cout << "Search a data in tree: ";
     cin >> searchNumber;
@@ -33,7 +50,7 @@ int main() {
         cout << "Number found in tree" << endl;
     else
         cout << "Number not found in tree" << endl;
-
+    */
     return 0;
 }
 
@@ -82,4 +99,65 @@ bool Search(BstNode* root, int data) {
     }else{
         return Search(root->right, data);
     }
+}
+
+void preorder(BstNode* root) {
+    if (root != NULL) {
+        cout << root->data << endl;
+        preorder(root->left);
+        preorder(root->right);
+    }
+}
+
+void inorder(BstNode* root) {
+    if (root != NULL) {
+        inorder(root->left);
+        cout << root->data << endl;
+        inorder(root->right);
+    }
+}
+
+void postorder(BstNode* root) {
+    if (root != NULL) {
+        postorder(root->left);
+        postorder(root->right);
+        cout << root->data << endl;
+    }
+}
+
+int minRecursive(BstNode* root) {
+    if (root->left != NULL)
+        minRecursive(root->left);
+    else
+        return root->data;
+}
+
+int maxRecursive(BstNode* root) {
+    if (root->right != NULL)
+        maxRecursive(root->right);
+    else
+        return root->data;
+}
+
+int maxIterative(BstNode* root) {
+    while(root->right != NULL){
+        root = root->right;
+    }
+
+    return root->data;
+}
+
+int minIterative(BstNode* root) {
+    while(root->left != NULL){
+        root = root->left;
+    }
+
+    return root->data;
+}
+
+int height(BstNode* root) {
+    if (root == NULL)
+        return -1;
+
+    return max(height(root->left), height(root->right)) + 1;
 }
