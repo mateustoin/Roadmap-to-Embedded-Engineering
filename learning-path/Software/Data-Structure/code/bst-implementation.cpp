@@ -9,6 +9,8 @@ struct BstNode {
     BstNode* right;
 };
 
+// Reference to implement Delete later: https://gist.github.com/harish-r/a7df7ce576dda35c9660
+
 BstNode* GetNewNode(int data);
 BstNode* Insert(BstNode* root, int data);
 bool Search(BstNode* root, int data);
