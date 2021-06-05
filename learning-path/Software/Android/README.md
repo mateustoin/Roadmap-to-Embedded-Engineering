@@ -2,7 +2,7 @@
 
 > Version of Android Studio used: 4.2 
 
-## First Toy app - Favorite Toys
+## #1 Toy app - Favorite Toys
 
 ### 1. Create Layout
 
@@ -25,7 +25,7 @@
     <p>Figure 3. Creating ScrollView</p>
 </div>
 
-## Second Toy app - Github Repo Search
+## #2 Toy app - Github Repo Search
 
 ### 1. Create Layout
 
@@ -43,8 +43,30 @@
 
 ### 3. Display Url
 
+<div align='center'>
+    <img width="250" src="images/course-images/t02-03.gif">
+    <p>Figure 6. </p>
+</div>
+
 ### 4. Connecting to the Internet
+
+<div align='center'>
+    <img width="650" src="images/course-images/t02-04-error.png">
+    <p>Figure 7. </p>
+</div>
 
 ### 5. Creating Async Task
 
+<div align='center'>
+    <img width="250" src="images/course-images/t02-05.gif">
+    <p>Figure 8. </p>
+</div>
+
 ### 6. Add Polish
+
+<div align='center'>
+    <img width="250" src="images/course-images/t02-06.gif">
+    <p>Figure 9. </p>
+</div>
+
+## #3 Toy app - Green Recycler View
