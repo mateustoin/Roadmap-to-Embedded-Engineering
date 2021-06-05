@@ -70,3 +70,22 @@
 </div>
 
 ## #3 Toy app - Green Recycler View
+
+### 1. RecyclerView Layout creation
+
+### 2. ViewHolder
+
+<div align='center'>
+    <img width="250" src="images/course-images/t02-01.gif">
+    <p>Figure 10. Displaying numbers on ViewHolder </p>
+</div>
+
+### 3. RecyclerView Adapter
+
+### 4. Wiring up RecyclerView
+
+### 5. Going Green
+
+### 6. Refresh Menu Button
+
+### 7. RecyclerView Click Handling
