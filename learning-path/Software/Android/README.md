@@ -76,7 +76,7 @@
 ### 2. ViewHolder
 
 <div align='center'>
-    <img width="250" src="images/course-images/t02-01.gif">
+    <img width="250" src="images/course-images/t03-02.gif">
     <p>Figure 10. Displaying numbers on ViewHolder </p>
 </div>
 
