@@ -24,3 +24,27 @@
     <img width="250" src="images/course-images/t01-03.gif">
     <p>Figure 3. Creating ScrollView</p>
 </div>
+
+## Second Toy app - Github Repo Search
+
+### 1. Create Layout
+
+<div align='center'>
+    <img width="250" src="images/course-images/t02-01.gif">
+    <p>Figure 4. Layout creation</p>
+</div>
+
+### 2. Add Menu
+
+<div align='center'>
+    <img width="250" src="images/course-images/t02-02.gif">
+    <p>Figure 5. Creation of Menu Item 'Search'</p>
+</div>
+
+### 3. Display Url
+
+### 4. Connecting to the Internet
+
+### 5. Creating Async Task
+
+### 6. Add Polish
