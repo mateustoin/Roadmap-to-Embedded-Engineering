@@ -89,3 +89,11 @@
 ### 6. Refresh Menu Button
 
 ### 7. RecyclerView Click Handling
+
+## #4 Toy App - Start New Activity
+
+### 1. Add New Activity
+
+### 2. Start New Activity
+
+### 3. Passing Data Between Activities
