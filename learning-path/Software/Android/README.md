@@ -124,6 +124,6 @@
 ### 4. Opening Camera (Extra)
 
 <div align='center'>
-    <img width="250" src="images/course-images/t04b-03.gif">
+    <img width="250" src="images/course-images/t04b-extra.gif">
     <p>Figure 14. Opening Camera </p>
 </div>
