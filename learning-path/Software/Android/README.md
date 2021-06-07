@@ -120,3 +120,10 @@
     <img width="250" src="images/course-images/t04b-03.gif">
     <p>Figure 13. Sharing text through apps </p>
 </div>
+
+### 4. Opening Camera (Extra)
+
+<div align='center'>
+    <img width="250" src="images/course-images/t04b-03.gif">
+    <p>Figure 14. Opening Camera </p>
+</div>
