@@ -18,12 +18,15 @@ package com.example.android.implicitintents;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    static final int REQUEST_IMAGE_CAPTURE = 1;
+    static final Uri locationForPhotos = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
      * @param v Button that was clicked.
      */
     public void onClickOpenWebpageButton(View v) {
-        String urlAsString = "http://www.udacity.com";
+        String urlAsString = "https://github.com/bittoin";
         openWebPage(urlAsString);
     }
 
@@ -49,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
      * @param v Button that was clicked.
      */
     public void onClickOpenAddressButton(View v) {
-        String addressString = "1600 Amphitheatre Parkway, CA";
+        String addressString = "João Pessoa, Paraíba, Brazil";
 
         Uri.Builder builder = new Uri.Builder();
         builder.scheme("geo")
@@ -83,9 +86,11 @@ public class MainActivity extends AppCompatActivity {
      *
      * @param v Button that was clicked.
      */
-    public void createYourOwn(View v) {
+    public void onOpenCameraButton(View v) {
+        String fileName = "testPhoto";
+        capturePhoto();
         Toast.makeText(this,
-                "TODO: Create Your Own Implicit Intent",
+                "Opening Camera",
                 Toast.LENGTH_SHORT)
                 .show();
     }
@@ -164,6 +169,14 @@ public class MainActivity extends AppCompatActivity {
                                         .getIntent();
         if (shareIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(shareIntent);
+        }
+    }
+
+    void capturePhoto() {
+        Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivityForResult(intent, REQUEST_IMAGE_CAPTURE);
         }
     }
 }
