@@ -90,10 +90,33 @@
 
 ### 7. RecyclerView Click Handling
 
-## #4 Toy App - Start New Activity
+## #4a Toy App - Start New Activity
 
 ### 1. Add New Activity
 
 ### 2. Start New Activity
 
 ### 3. Passing Data Between Activities
+
+## #4b Toy App - Web Pages, Maps and Sharing
+
+### 1. Open Web Page
+
+<div align='center'>
+    <img width="250" src="images/course-images/t04b-01.gif">
+    <p>Figure 11. Opening web page </p>
+</div>
+
+### 2. Open Map
+
+<div align='center'>
+    <img width="250" src="images/course-images/t04b-02.gif">
+    <p>Figure 12. Opening address in map </p>
+</div>
+
+### 3. Share Text
+
+<div align='center'>
+    <img width="250" src="images/course-images/t04b-03.gif">
+    <p>Figure 13. Sharing text through apps </p>
+</div>
