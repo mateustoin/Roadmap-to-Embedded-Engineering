@@ -1,1 +1,4 @@
 learning-path/Software/Android/*.java linguist-language=java
+learning-path/Software/Algorithm/*.c linguist-language=c
+learning-path/Software/Algorithm/*.cpp linguist-language=cpp
+learning-path/Software/Data-Structure/*.cpp linguist-language=cpp
