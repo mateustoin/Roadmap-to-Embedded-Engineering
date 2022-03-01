@@ -64,10 +64,8 @@ I'll list some fo the topics that we will see and explain in this repository.
 
 **Click on the offers** to see some examples. I will update this section whenever interesting opportunities arise to show.
 
-<details><summary>Embedded Software Analyst</summary>
+<details><summary><b>Eldorado Institute</b> - Embedded Software Analyst</summary>
 <p>
-
-Eldorado Institute
 
 ### Activities
 
@@ -93,10 +91,8 @@ Eldorado Institute
 </p>
 </details>
 
-<details><summary>Embedded Systems Developer (1)</summary>
+<details><summary><b>Eldorado Institute</b> - Embedded Systems Developer (1)</summary>
 <p>
-
-Eldorado Institute
 
 ### Activities
 
@@ -116,10 +112,10 @@ Eldorado Institute
 </p>
 </details>
 
-<details><summary>Embedded Systems Developer (2)</summary>
+<details><summary>CITeB - Embedded Systems Developer (2)</summary>
 <p>
 
-CITeB - Team guided by agile principles, where the professional needs to analyze, research, specify, plan, develop, implement and test.
+Team guided by agile principles, where the professional needs to analyze, research, specify, plan, develop, implement and test.
 
 ### Profile
 
@@ -151,10 +147,8 @@ CITeB - Team guided by agile principles, where the professional needs to analyze
 </p>
 </details>
 
-<details><summary>C/C++ Android Developer</summary>
+<details><summary><b>Eldorado Institute</b> - C/C++ Android Developer</summary>
 <p>
-
-Eldorado Institute
 
 ### Profile
 
@@ -174,10 +168,8 @@ Eldorado Institute
 </p>
 </details>
 
-<details><summary>Embedded systems/devices developer</summary>
+<details><summary><b>Axpr Valve Science</b> - Embedded systems/devices developer</summary>
 <p>
-
-Axpr Valve Science
 
 ### Profile
 
@@ -206,6 +198,94 @@ Axpr Valve Science
 + Git
 + Linux environment
 + Intermediate english
+
+---
+
+</p>
+</details>
+
+<details><summary><b>Espressif Systems</b> - Embedded Software Engineer</summary>
+<p>
+
+### Profile
+
++ Develop and improve support for Espressif chips in RTOSes (such as Zephyr, NuttX) and frameworks (MicroPython, Arduino).
++ Collaborate with upstream projects, submitting features and bug fixes.
++ Help customers advance their progress on projects by offering technical support and helping them troubleshoot software issues.
++ Work closely with the teams developing other aspects of Espressif software and tools.
++ Write documentation such as application notes, tutorials, and API guides.
+
+### Requisites
+
++ Bachelor’s degree or above, in Computer Engineering, Electronic Engineering, Communications Engineering, or other related disciplines.
++ At least 4 years’ work experience in the field of Embedded Software Development.
++ Excellent knowledge of C language.
++ Familiar with low-level aspects of RTOS.
++ Familiar with command line tools (Linux / Unix) and at least one scripting language (shell, Python).
++ Experience with git version control system.
+
+### Any of the following would be a strong plus:
+
++ Prior experience in projects with operating systems and frameworks like Zephyr, Nuttx, Micropython, Lua, etc.
++ Knowledge of hardware communication protocols: SPI, UART, I2C, I2S.
++ Knowledge of network protocols, such as TCP, UDP, TLS, HTTP.
++ Knowledge of Bluetooth LE, GAP, GATT.
+
+---
+
+</p>
+</details>
+
+<details><summary><b>Venturus</b> - Junior Firmware Developer</summary>
+<p>
+
+### Profile
+
+The challenge is to develop firmware in a innovation project with partnership with a automobilistic company.
+
+### Requisites
+
++ Basic Knowledge of electronics
++ Experience with C or C++ programming for embedded systems
++ Solid knowledge on microcontrollers programming
++ Knowledge using peripherals I2C, I2S, SPI
++ Familiar with RTOS (FreeRTOS or others)
++ Basic notion on analog and digital electronics
+### Candidate differentials
+
++ Experience with hardware bring-up
++ Proficiency with any SoC based in Arm Cortex M
++ Knowledge on firmware development for Arm and/or Xtensa microcontrollers
++ Is desirable knowledge on DSP (SigmaStudio)
++ Bachelor’s degree or above, in Computer Engineering, Electronic Engineering, Communications Engineering, or other related disciplines
+
+---
+
+</p>
+</details>
+
+<details><summary><b>Stone</b> - C++ Developer</summary>
+<p>
+
+### Profile
+
+We are looking for creative software developers, responsible, with energy and focus to solve problems with quality. We also value your pratical skills to develop systems and capability to work with a team. You are going to develop embedded software with C++ using framework Qt, facing hardware limitations and making low resources becoming an product with high performance. Your work will affect milions of brazilians across the country.
+
+### Requisites
+
++ Continuous learning mindset
++ Fluency on a certain programming language: C++, C, Java
++ Experience with OOP
++ Experience with embedded development
++ Experience with Qt
+### Candidate differentials
+
++ Experience with:
+  + Relational database
+  + Telecommunications
+  + Linux
+  + Android
+  + Javascript
 
 ---
 
