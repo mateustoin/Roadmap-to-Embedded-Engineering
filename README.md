@@ -319,6 +319,16 @@ Here I will put some content that are useful. Some of the general content may be
 
 >[¹] C/C++ programming is necessary to implement and practice the data structures that are showed in playlist. If you are just looking for data structure knowledge, you can just watch the teorical videos explaining them.
 
+### RTOS (Real Time Operating System)
+
+>👁‍🗨 A real-time operating system (RTOS) is an operating system that runs multi-threaded applications and can meet real-time deadlines.
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+|:---:|:---:|:------:|:---:|:---:|:---:|:---|
+| Introduction to RTOS | [Link](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) | Udacity | Course | Free |  Beginner¹ | This course will show you how to use basic concepts of RTOS with FreeRTOS. You can practice using any tools that you have (Arduino IDE, ESP-IDF, STM Cube, PlatformIO), learning what you need to build your first applications with RTOS.
+
+>[²] It's a beginner course, but probably it's good if you already have knowledge on Arduino and/or boards like ESP32 development.
+
 ## Hardware Content
 
 > Under construction!
