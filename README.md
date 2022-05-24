@@ -310,7 +310,9 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| Introduction to Git | [Link](https://missing.csail.mit.edu/2020/version-control/) | Free | Lecture | Beginner | YouTube/Notes | Why is version control useful? Even when you’re working by yourself, it can let you look at old snapshots of a project, keep a log of why certain changes were made, work on parallel branches of development, and much more. When working with others, it’s an invaluable tool for seeing what other people have changed, as well as resolving conflicts in concurrent development. (Text from lecture notes)
+| Introduction to Git | [Link](https://missing.csail.mit.edu/2020/version-control/) | Free | Lecture¹ | Beginner | YouTube/Notes | Why is version control useful? Even when you’re working by yourself, it can let you look at old snapshots of a project, keep a log of why certain changes were made, work on parallel branches of development, and much more. When working with others, it’s an invaluable tool for seeing what other people have changed, as well as resolving conflicts in concurrent development. (Text from lecture notes)
+
+>[¹] Lecture notes have a lot of usefil links that you can use to learn more about the tool and see more advanced content.
 
 ## Software Content
 
@@ -345,11 +347,17 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 >👁‍🗨 Often you can find job offers with Qt applications on embedded devices. It's a C++ framework that can run anywhere (Linux, Windows, MacOS, Android, IOS, Raspberry, etc) and have more than 25 years of development and presence on the market.
 
+>❕ Bryan Cairns is one of the best Qt teachers. He also have a lot of great paid courses on Udemy, but I'll not put them here, becase they are easy to find. If you want his paid courses for free, you can access the [facebook page](https://www.facebook.com/groups/1400884323467285) that he created to exchange knowledge about programming. Very often he gives several Cupom Codes for people who wants to learn from his courses for free.
+
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
-| Itroduction to Qt 6 | [Link](https://www.youtube.com/watch?v=nscgFv4l53w&list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao) | Youtube | Course | Free |  Beginner¹ | Description.
+| Introduction to Qt 5 | [Link](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) | Youtube | Course | Free |  Beginner¹ | Qt5 still have some LTS (Long-|Term-Support) versions and it's very used on many projects today, since Qt6 was recently released.
 
->[1] It's a beginner course, but probably it's good if you already have knowledge on Arduino and/or boards like ESP32 development.
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+|:---:|:---:|:------:|:---:|:---:|:---:|:---|
+| Introduction to Qt 6 | [Link](https://www.youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao) | Youtube | Course | Free |  Beginner1 | Qt6 is the las version of Qt bringing all the new features and updates from the company.
+
+>[1] It's a beginner course, but since this is a C++ Framework, it is recommended that you learn basics of C++ before.
 
 ## Hardware Content
 
