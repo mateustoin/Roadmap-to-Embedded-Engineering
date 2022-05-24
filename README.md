@@ -294,11 +294,23 @@ We are looking for creative software developers, responsible, with energy and fo
 
 ## General Content
 
-Here I will put some content that are useful. Some of the general content may be not related to embeddes systems, but could be useful to use.
+Here I'll put some content that are useful, not only for studying but also implementing and practicing in real life projects.
+
+### README
+
+>👁‍🗨 Good documentation can be the key to your project's success.
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
 | Writing READMEs | [Link](https://www.udacity.com/course/writing-readmes--ud777) | Free | Course | Beginner | Udacity | Documentation is an important part of the development process. Learn to write READMEs using Markdown so your code can be used by other humans! (Text from course)
+
+### Version Control - Git
+
+>👁‍🗨 The versioning system in the development world is a necessary knowledge in practically 100% of the serious projects you are likely to work on. Whether in professional or personal projects, having a solid foundation in this is essential to ensure a good workflow, as well as being an ally of documentation.
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary
+|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| Introduction to Git | [Link](https://missing.csail.mit.edu/2020/version-control/) | Free | Lecture | Beginner | YouTube/Notes | Why is version control useful? Even when you’re working by yourself, it can let you look at old snapshots of a project, keep a log of why certain changes were made, work on parallel branches of development, and much more. When working with others, it’s an invaluable tool for seeing what other people have changed, as well as resolving conflicts in concurrent development. (Text from lecture notes)
 
 ## Software Content
 
@@ -325,9 +337,19 @@ Here I will put some content that are useful. Some of the general content may be
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
-| Introduction to RTOS | [Link](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) | Udacity | Course | Free |  Beginner¹ | This course will show you how to use basic concepts of RTOS with FreeRTOS. You can practice using any tools that you have (Arduino IDE, ESP-IDF, STM Cube, PlatformIO), learning what you need to build your first applications with RTOS.
+| Introduction to RTOS | [Link](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) | YouTube | Course | Free |  Beginner¹ | This course will show you how to use basic concepts of RTOS with FreeRTOS. You can practice using any tools that you have (Arduino IDE, ESP-IDF, STM Cube, PlatformIO), learning what you need to build your first applications with RTOS.
 
->[²] It's a beginner course, but probably it's good if you already have knowledge on Arduino and/or boards like ESP32 development.
+>[1] It's a beginner course, but probably it's good if you already have knowledge on Arduino and/or boards like ESP32 development.
+
+### Qt: for embedded GUI applications
+
+>👁‍🗨 Often you can find job offers with Qt applications on embedded devices. It's a C++ framework that can run anywhere (Linux, Windows, MacOS, Android, IOS, Raspberry, etc) and have more than 25 years of development and presence on the market.
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+|:---:|:---:|:------:|:---:|:---:|:---:|:---|
+| Itroduction to Qt 6 | [Link](https://www.youtube.com/watch?v=nscgFv4l53w&list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao) | Youtube | Course | Free |  Beginner¹ | Description.
+
+>[1] It's a beginner course, but probably it's good if you already have knowledge on Arduino and/or boards like ESP32 development.
 
 ## Hardware Content
 
