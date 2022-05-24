@@ -351,7 +351,7 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
-| Introduction to Qt 5 | [Link](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) | Youtube | Course | Free |  Beginner¹ | Qt5 still have some LTS (Long-|Term-Support) versions and it's very used on many projects today, since Qt6 was recently released. Also have all the stable features available.
+| Introduction to Qt 5 | [Link](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) | Youtube | Course | Free |  Beginner¹ | Qt5 still have some LTS (Long-Term-Support) versions and it's very used on many projects today, since Qt6 was recently released. Also have all the stable features available.
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
