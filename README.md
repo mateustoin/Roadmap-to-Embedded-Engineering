@@ -352,9 +352,6 @@ Here I'll put some content that are useful, not only for studying but also imple
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 |:---:|:---:|:------:|:---:|:---:|:---:|:---|
 | Introduction to Qt 5 | [Link](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) | Youtube | Course | Free |  Beginner¹ | Qt5 still have some LTS (Long-Term-Support) versions and it's very used on many projects today, since Qt6 was recently released. Also have all the stable features available.
-
-| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
-|:---:|:---:|:------:|:---:|:---:|:---:|:---|
 | Introduction to Qt 6 | [Link](https://www.youtube.com/playlist?list=PLUbFnGajtZlXbrbdlraCe3LMC_YH5abao) | Youtube | Course | Free |  Beginner¹ | Qt6 is the las version of Qt bringing all the new features and updates from the company.
 
 >[1] It's a beginner course, but since this is a C++ Framework, it is recommended that you learn basics of C++ before.
