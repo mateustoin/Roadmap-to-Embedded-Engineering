@@ -359,6 +359,14 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 >[1] It's a beginner course, but since this is a C++ Framework, it is recommended that you learn basics of C++ before.
 
+### Cmake
+
+>👁‍🗨 CMake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice. (Text from [official website](https://cmake.org/))
+
+| Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
+|:---:|:---:|:------:|:---:|:---:|:---:|:---|
+| How to CMake Good | [Link](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) | YouTube | Course | Free |  Beginner | Sometimes there is beginners topics that are not so easy to learn and Cmake is one of them. This playlist teaches step-by-step some easy explainings about Cmake to learn and practice! The teacher is the maintainer of the famous VSCode extension *CMake Tools*.
+
 ## Hardware Content
 
 > Under construction!
