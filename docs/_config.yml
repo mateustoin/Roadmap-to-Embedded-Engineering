@@ -30,6 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+# Possible next theme: https://jekyllthemes.io/theme/alembic
 theme: minima
 plugins:
   - jekyll-feed
