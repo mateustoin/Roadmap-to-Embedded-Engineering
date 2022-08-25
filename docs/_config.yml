@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: #'https://mateustoin.github.io/'
-baseurl: #'Roadmap-to-Embedded-Engineering'
+url: 'https://mateustoin.github.io/'
+baseurl: 'Roadmap-to-Embedded-Engineering'
 title: 'Roadmap to Embedded Engineering'
 description: 'This is my new website'
 permalink: pretty
