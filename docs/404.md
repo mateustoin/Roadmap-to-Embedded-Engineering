@@ -1,0 +1,9 @@
+---
+title: "404"
+excerpt: "Page Not Found"
+permalink: 404.html
+indexing: false
+sitemap: false
+---
+
+Sorry, but the page could not be found.
