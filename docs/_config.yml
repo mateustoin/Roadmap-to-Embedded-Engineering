@@ -9,6 +9,7 @@ exclude:
 
 # Set plugins
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -18,19 +19,46 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-remote-theme
 
 # Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-US # Set the site language
 url: 'https://mateustoin.github.io/'
-baseurl: 'Roadmap-to-Embedded-Engineering'
+baseurl: ''
 title: 'Roadmap to Embedded Engineering'
-description: 'This is my new website'
+description: 'This website should serve as a guide.'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+repo: "https://github.com/mateustoin/Roadmap-to-Embedded-Engineering"
+email: "mateustoin@gmail.com"
 
 # Pagination
-paginate: 5
+paginate: 4
 paginate_path: blog/page:num
+author: mateustoin # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Mateus Antonio # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/mateustoin_
+    - https://www.linkedin.com/in/mateustoin
+    - https://github.com/mateustoin
+    - https://www.instagram.com/mateus_toin/
+    - https://www.twitch.tv/mateus_toin
+markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+# commonmark:
+  # options: ["SMART", "FOOTNOTES"]
+  # extensions: ["strikethrough", "autolink", "table"]
+
+# 8. Site favicons & manifest icons
+#favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+#  16: '/assets/logos/logo@16px.png'
+#  32: '/assets/logos/logo@32px.png'
+#  96: '/assets/logos/logo@96px.png'
+#  120: '/assets/logos/logo@120px.png'
+#  144: '/assets/logos/logo@144px.png'
+#  180: '/assets/logos/logo@180px.png'
+#  512: '/assets/logos/logo@512px.png'
+#  1024: '/assets/logos/logo@1024px.png'
 
 # Header nav
 navigation_header:
@@ -70,3 +98,25 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+navigation_footer:
+- title: Created by Mateus Antonio
+  url: https://github.com/mateustoin
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/mateustoin_
+  LinkedIn: https://www.linkedin.com/in/mateustoin
+  GitHub: https://github.com/mateustoin
+  link: https://darn.es
+  RSS: /feed.xml
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
