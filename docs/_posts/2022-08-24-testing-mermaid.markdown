@@ -1,5 +1,7 @@
 ---
 title: Fluxograma
+layout: post
+date:   2022-08-24 03:30:14 -0300
 categories:
 - General
 - Software
