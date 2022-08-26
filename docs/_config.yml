@@ -24,7 +24,7 @@ plugins:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 url: 'https://mateustoin.github.io/'
-baseurl: ''
+baseurl: 'Roadmap-to-Embedded-Engineering'
 title: 'Roadmap to Embedded Engineering'
 description: 'This website should serve as a guide.'
 permalink: pretty
