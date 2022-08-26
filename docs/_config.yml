@@ -68,6 +68,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
