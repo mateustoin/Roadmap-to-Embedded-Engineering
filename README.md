@@ -328,7 +328,61 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 | Title | Access Link | Platform | Type | Tier | Difficulty | Summary |
 | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| Data Structures from MyCodeSchool | [Link](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) | YouTube | Video Lessons | Free | Intermediate¹ | In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. (**Text from author**) |
+| Data Structures from MyCodeSchool | [Link](https:￼
+WeslleyDeziderio starred mateustoin/Roadmap-to-Embedded-Engineering 6 hours ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+NightzDev starred mateustoin/Roadmap-to-Embedded-Engineering yesterday
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+Raja-s-k forked Raja-s-k/Roadmap-to-Embedded-Engineering from mateustoin/Roadmap-to-Embedded-Engineering 5 days ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+RanitPradhan starred mateustoin/Roadmap-to-Embedded-Engineering 6 days ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+Zardwin starred mateustoin/Roadmap-to-Embedded-Engineering 7 days ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+dinopiccio forked dinopiccio/Roadmap-to-Embedded-Engineering from mateustoin/Roadmap-to-Embedded-Engineering 7 days ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5
+
+￼
+Adhamhidawy starred mateustoin/Roadmap-to-Embedded-Engineering 8 days ago
+mateustoin/Roadmap-to-Embedded-Engineering
+￼Starred
+This repository should serve as a guide to everybody who wants to study software and hardware for embedded systems but doesn't know where to start.
+
+ Java 78 Updated Sep 5//www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) | YouTube | Video Lessons | Free | Intermediate¹ | In this series of lessons, we will study and implement data structures. We will be implementing these data structures in c or c++.  Pre-requisite for this lesson is good understanding of pointers in C. (**Text from author**) |
 | Principles of Data Structures Using C and C++ | [Link](https://repository.dinus.ac.id/docs/ajar/Principles_of_Data_Structures_Using_C_and_C++.pdf) | Book | Lessons | Free | Intermediate¹ | Programming methodologies deal with different methods of designing programs. This will teach you how to program efficiently (**Text from book**) |
 
 >[¹] C/C++ programming is necessary to implement and practice the data structures that are showed in playlist. If you are just looking for data structure knowledge, you can just watch the teorical videos explaining them.
@@ -365,9 +419,5 @@ Here I'll put some content that are useful, not only for studying but also imple
 | How to CMake Good | [Link](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) | YouTube | Course | Free |  Beginner | Sometimes there is beginners topics that are not so easy to learn and Cmake is one of them. This playlist teaches step-by-step some easy explainings about Cmake to learn and practice! The teacher is the maintainer of the famous VSCode extension *CMake Tools*.
 
 ## Hardware Content
-
-> Under construction!
-
-## References
 
 > Under construction!
