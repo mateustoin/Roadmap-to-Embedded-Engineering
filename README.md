@@ -314,15 +314,15 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 >[¹] Lecture notes have a lot of usefil links that you can use to learn more about the tool and see more advanced content.
 
-### YouTube Content
+### YouTube contents to watch
 
-| Channel/Playlist name | Access Link | Content Type
-|:---:|:---:|:---|
-| Michael Reeves | [Link](https://www.youtube.com/@MichaelReeves) | `Ideas`, `Projects`, `Entertainment`
-| Anastasi In Tech | [Link](https://www.youtube.com/@AnastasiInTech) | `Learning`, `Hardware`
-| Jacob Sorber | [Link](https://www.youtube.com/@JacobSorber) | `Learning`, `Software`, `Embedded`
-| Modern Embedded Systems Programming Course | [Link](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) | `Software`, `Hardware`, `Learning`
-| Stuff Made Here | [Link](https://www.youtube.com/@StuffMadeHere) | `Ideas`, `Projects`, `Entertainment`
+| Channel/Playlist name |  | Access Link | Content Type
+|:---:|:---:|:---:|:---|
+| Michael Reeves | Michael does a lot of crazy and creative projects that you probably will never reproduce at home. Good to have fun watching. | [Link](https://www.youtube.com/@MichaelReeves) | `Ideas`, `Projects`, `Entertainment`
+| Anastasi In Tech | Anastasi shares a lot of updated information on hardware development and news from hardware world. | [Link](https://www.youtube.com/@AnastasiInTech) | `Learning`, `Hardware`
+| Jacob Sorber | Jacob is a teacher that shares information, tips and gives good lessons about software and embedded development. | [Link](https://www.youtube.com/@JacobSorber) | `Learning`, `Software`, `Embedded`
+| Modern Embedded Systems Programming Course | This is an old playlist that is being updated for a long time with valuable lessons regarding Embedded Systems. | [Link](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) |  | `Software`, `Hardware`, `Learning`
+| Stuff Made Here | Another channel with crazy and creative projects to watch and have some fun! | [Link](https://www.youtube.com/@StuffMadeHere) | `Ideas`, `Projects`, `Entertainment`
 
 ## Software Content
 
