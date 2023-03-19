@@ -314,6 +314,16 @@ Here I'll put some content that are useful, not only for studying but also imple
 
 >[¹] Lecture notes have a lot of usefil links that you can use to learn more about the tool and see more advanced content.
 
+### YouTube Content
+
+| Channel/Playlist name | Access Link | Content Type
+|:---:|:---:|:---|
+| Michael Reeves | [Link](https://www.youtube.com/@MichaelReeves) | `Ideas`, `Projects`, `Entertainment`
+| Anastasi In Tech | [Link](https://www.youtube.com/@AnastasiInTech) | `Learning`, `Hardware`
+| Jacob Sorber | [Link](https://www.youtube.com/@JacobSorber) | `Learning`, `Software`, `Embedded`
+| Modern Embedded Systems Programming Course | [Link](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM) | `Software`, `Hardware`, `Learning`
+| Stuff Made Here | [Link](https://www.youtube.com/@StuffMadeHere) | `Ideas`, `Projects`, `Entertainment`
+
 ## Software Content
 
 ### Android Development
